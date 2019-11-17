@@ -1,0 +1,7 @@
+le nom du projet : Animeetic
+ 
+Il s'agit d'une communauté en ligne pour les animaux et leurs propriétaires,
+Animeetic offre aux utlisateurs une interface unique, dans laquelle l'utilisateur pourrait créer un profil 
+pour son animal et le modifier, ce dernier va être publié en publique pour que les autres utilisateurs puissent
+le visualiser.
+Le site dispose aussi d'une messagerie pour contacter des autres utilisateurs ainsi qu'une section pour adopter les animaux.

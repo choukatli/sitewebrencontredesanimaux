@@ -1,0 +1,88 @@
+<style type="text/css">
+p.submit {
+    padding-left: 196px;
+}
+.loading-image
+{
+	margin-top:-25%;
+	margin-left:+63%;
+}
+
+input[type="password"] {
+ 
+  width:20%;
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+}
+
+input[type="password"]:focus,
+input[type="password"].focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+input[type="text"] {
+ 
+  width:20%;
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+}
+input[type="text"]:focus,
+input[type="text"].focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+input[type="submit"] {
+ 
+  width:20%;
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  color:grey;
+}
+textarea[type="text"]
+{
+	width:20%;
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+}
+textarea[type="text"]:focus,
+textarea[type="text"].focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+#barre_intro
+{
+margin-top: -1.5%;
+margin-left: -1%;
+background: linear-gradient(to right,  #EDE574 0%,#E1F5C4 100%); 
+position: relative;
+}
+#titre
+{
+  margin-top: -1%;
+  margin-left: +2%;
+  font-family: cursive ;
+  
+}
+
+#all
+{
+	margin-top: -5%;
+}
+#positionner_photo_submit
+{
+	margin-top: -20%;
+	margin-left: +63%;
+
+}
+a{
+    text-decoration:none;
+}
+body
+{
+  background-color: white;
+}
+</style>

@@ -1,0 +1,3 @@
+[10-Apr-2017 22:48:53 UTC] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\MAMP\htdocs\projet\sauvegard.php on line 9
+[10-Apr-2017 22:49:41 UTC] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\MAMP\htdocs\projet\sauvegard.php on line 9
+[10-Apr-2017 23:14:53 UTC] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\MAMP\htdocs\projet\sauvegard.php on line 9

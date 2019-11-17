@@ -1,0 +1,51 @@
+<style type="text/css">
+
+
+h1,h2,h3
+{
+	
+	font-size: 24px;
+    font-weight: 400;
+    font-family:Helvetica,Arial,sans-serif;
+    
+}
+p
+{
+	font-weight: bold;
+	font-family:Helvetica,Arial,sans-serif;
+	 
+}
+a{
+	text-decoration: none;
+	    color: #003569;
+
+}
+#right_barre
+{
+	margin-left:1350px;
+}
+#left_barre
+{
+	margin-top: -836px;
+	margin-left: -10px;
+}
+#left_barre,#right_barre
+{
+	width: 40px;
+	padding: 50px;
+background-color :#F5F5F5;
+}
+
+html,body,#left_barre,#right_barre
+{
+	height: 100%;
+}
+#a_propos
+{
+	width: 1100px;
+	padding: 50px;
+	margin-top: -800px;
+	margin-left:150px;
+}
+
+</style>
